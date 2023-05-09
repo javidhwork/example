@@ -15,9 +15,10 @@ public class Encap {
 	int deptno;
 	String desg;
 	
+	
 	void work()
 	{
-		System.out.println(this.Ename + " is working");
+		System.out.println(this.Ename + " is working fine");
 		
 	}
 
